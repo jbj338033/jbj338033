@@ -13,6 +13,7 @@
 <div align="center">
 	<hr width="300px;" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
+	<br /><br />
 	<img src="https://github-readme-stats.vercel.app/api?username=jbj338033&show_icons=true&theme=default" />
 </div>
 
