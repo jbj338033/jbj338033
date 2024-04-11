@@ -3,11 +3,19 @@
 </div>
 
 <div align="center">
+	<hr width="500px;" />
+</div>
+
+<div align="center">
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=jbj338033&data=followers,repositories,stars,commits" />
 </div>
 
 <div align="center">
 	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,go,bash,json,yaml,mysql&frameworks=react,flutter,electron,express&tools=git,npm,yarn,redis,nodejs,gradle&includeNames=true&themes=material" />
+</div>
+
+<div align="center">
+	<hr width="500px;" />
 </div>
 
 <div align="center">
