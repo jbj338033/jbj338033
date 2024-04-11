@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,go,bash,json,yaml,mysql,groovy,markdown&frameworks=react,electron&tools=git,npm,yarn,redis,nodejs,gradle&includeNames=true&themes=material" />
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,go,bash,json,yaml,mysql,groovy,markdown&tools=git,npm,yarn,redis,nodejs,gradle&includeNames=true&themes=material" />
 </div>
 
 <div align="center">
