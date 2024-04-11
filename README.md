@@ -1,5 +1,5 @@
 <div align="center">
-	<h3>Hi there 👋</h3>
+	<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=gradient&text=jbj338033's%20GitHub&descAlign=50&fontAlignY=36" />
 </div>
 
 <div align="center">
