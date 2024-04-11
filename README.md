@@ -5,7 +5,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Java,Kotlin,HTML5,CSS3,JavaScript,TypeScript,MySQL&frameworks=ReactJS&tools=Git,NodeJS,PNPM,Gradle&includeNames=true&themes=material" />
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=Java,Kotlin,HTML5,CSS3,JavaScript,TypeScript,MySQL&frameworks=ReactJS&tools=Git,NodeJS,NPM,YARN,Gradle&includeNames=true&themes=material" />
 </div>
 
 <div align="center">
