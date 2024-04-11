@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <div align="center">
+	<h3>Hi there 👋</h3>
 	<img src="https://github-widgetbox.vercel.app/api/profile?username=jbj338033&data=followers,repositories,stars,commits" />
 </div>
 
