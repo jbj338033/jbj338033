@@ -19,5 +19,5 @@
 
 <div align="center">
 	<hr width="300px;" />
-	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jbj338033"/>
+	<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jbj338033" href="https://solved.ac/profile/jbj338033"/>
 </div>
