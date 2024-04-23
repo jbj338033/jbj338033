@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,go,bash,json,yaml,mysql&frameworks=react,flutter,electron,express&tools=git,npm,yarn,redis,nodejs,gradle&includeNames=true&themes=material" />
+	<img src="https://github-widgetbox.vercel.app/api/skills?languages=js,ts,java,python,html,css,c,cpp,kotlin,go,bash,json,yaml,mysql&frameworks=react,electron,express&tools=git,npm,yarn,redis,nodejs,gradle&includeNames=true&themes=material" />
 </div>
 
 <div align="center">
