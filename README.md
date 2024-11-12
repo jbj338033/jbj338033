@@ -7,10 +7,6 @@
 </div>
 
 <div align="center">
-	<img src="https://github-widgetbox.vercel.app/api/skills?languages=ts,java,python,html,css,kotlin,mysql&frameworks=react,express&tools=git,npm,redis,nodejs,gradle&includeNames=true&themes=material" />
-</div>
-
-<div align="center">
 	<hr width="300px;" />
 	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jbj338033&layout=compact" height="200px;" />
 	<img src="https://github-readme-stats.vercel.app/api?username=jbj338033&show_icons=true&theme=default" height="200px;" />
